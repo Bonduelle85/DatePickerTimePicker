@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePickerTimePicker</string>
+    <string name="selected_time">The selected time is:</string>
+</resources>
